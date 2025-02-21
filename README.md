@@ -104,13 +104,13 @@ GET
 
 /movies/{language}
 
-Pobiera listę filmów w określonym języku
+Pobiera listę filmów w określonym języku pl,en,de
 
 GET
 
 /series/{language}
 
-Pobiera listę seriali w określonym języku
+Pobiera listę seriali w określonym języku pl,en,de
 
 GET
 
